@@ -1,4 +1,9 @@
- CC0 1.0 Universal (CC0 1.0) 
+! Released under the CC0 1.0 Universal (CC0 1.0) 
+! A copy of it has been included in this repository as the file "LICENSE"
+
+! Damian A. Wloch. University of Surrey, FEPS. Department of Physics.
+! Runge-Kutta 4th order integrator with distributed potential and reference frame forces
+
 PROGRAM integrator
     IMPLICIT NONE
 
